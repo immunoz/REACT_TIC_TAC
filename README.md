@@ -1,2 +1,2 @@
-# REACT_TIC_TAC
-Tutorial to learn react from the official webpage of REACTJS.
+# REACT BASICS
+This repository contains the code generated with the REACT introduction tutorial that you can find in this [link](https://reactjs.org/tutorial/tutorial.html).
